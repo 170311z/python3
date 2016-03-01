@@ -1,5 +1,7 @@
 # -*- codeing: utf-8 -*-
 
+# pip install requests
+
 import requests
 
 r = requests.get('http://qitta.com/advent-calender/2014')
